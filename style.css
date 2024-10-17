@@ -1,0 +1,47 @@
+body
+{
+	font-family: Tahoma;
+}
+header, footer
+{
+	background-color: SaddleBrown;
+	color:white;
+	text-align:center;
+	padding: 3px;
+}
+#lewy,#prawy
+{
+	background-color: Tan;
+	height:400px;
+	width:40%;
+	float:left;
+}
+#srodek
+{
+	background-color: Wheat;
+	height:400px;
+	width:20%;
+	float:left;
+}
+img
+{
+	margin-right:20px;
+	float:right;
+}
+footer
+{
+	clear:both;
+}
+h4
+{
+	text-align:center;
+}
+input
+{
+ margin:5px;
+}
+li:hover
+{
+	background-color:sienna;
+	color:white;
+}
